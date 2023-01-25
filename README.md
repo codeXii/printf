@@ -1,1 +1,5 @@
-Team project on Printf
+# Team project on Printf
+
+## Members
+* CodeXii
+* Omachonu prosper
