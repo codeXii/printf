@@ -45,6 +45,8 @@ va_list list, char buffer[], int flags, int width, int precision, int size);
 
 /****************** FUNCTIONS ******************/
 
+int _putchar(char c);
+
 /* Funtions to print chars and strings */
 int print_char(va_list types, char buffer[],
 	int flags, int width, int precision, int size);
