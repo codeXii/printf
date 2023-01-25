@@ -1,4 +1,4 @@
-/************************* PRINT REVERSE *************************/
+/************************* PRINTS THE REVERSE OF A STRING *************************/
 /**
  * print_reverse - Prints reverse string.
  * @types: Lista of arguments
