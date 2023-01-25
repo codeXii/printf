@@ -2,4 +2,4 @@
 
 ## Members
 * CodeXii
-* Omachonu prosper
+* Omachonu Prosper
